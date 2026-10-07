@@ -12,7 +12,7 @@ The shipped report is at [`harness-effect-report.akbp-search.json`](harness-effe
 
 - Python 3.11.
 - A local clone of AKBP that exposes `cli/akbp.py` with `output_mode`
-  (AKBP main branch on or after PR AI-pro017/akbp#48).
+  (AKBP main branch on or after PR AI-pro017/agent-knowledge-base-protocol#48).
 - An initialized AKBP knowledge base with at least one cited claim and a
   built FTS5 index. The recipe below builds a throw-away one.
 
