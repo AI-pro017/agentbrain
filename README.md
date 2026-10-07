@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AI-pro017/agentbrain/actions/workflows/quality.yml"><img src="https://github.com/AI-pro017/agentbrain/actions/workflows/quality.yml/badge.svg" alt="Quality"></a>
   <a href="https://github.com/AI-pro017/agentbrain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AI-pro017/agentbrain" alt="License"></a>
   <a href="https://github.com/AI-pro017/agentbrain/stargazers"><img src="https://img.shields.io/github/stars/AI-pro017/agentbrain?style=social" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" alt="Python 3.11">
