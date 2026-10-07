@@ -33,7 +33,7 @@
     "Selected command: /brain-start",
     "Loaded skills: intake, command-routing, question-ladder, domain-language",
     "Adapter path: adapters/read-only-cli/README.md",
-    "Git fetch result: fetched: git fetch origin main succeeded (From https://github.com/rohitg00/agentbrain\n * branch            main       -> FETCH_HEAD)",
+    "Git fetch result: fetched: git fetch origin main succeeded (From https://github.com/AI-pro017/agentbrain\n * branch            main       -> FETCH_HEAD)",
     "Git freshness result: fresh: HEAD equals origin/main at 171af1eba3a0b183e48d8ca411a5e44fcf782c96",
     "Git worktree status: dirty: 2 path(s) changed",
     "Command exit status: 0",
@@ -48,7 +48,7 @@
     "Write fence approval state: unknown"
   ],
   "exact_command": "python scripts/runtime_smoke.py --runtime scheduled-agent-runtime --version 2026-05-17-cron --sandbox-write-mode workspace_write --brain-command-mode markdown_specs --selected-command /brain-start --loaded-skill intake --loaded-skill command-routing --loaded-skill question-ladder --loaded-skill domain-language --adapter-path adapters/read-only-cli/README.md --run-scope read_only_smoke --command-exit-status 0 --smoke-result pass --transcript-path artifacts/runtime-smoke/scheduled-agent-runtime-2026-05-17.log --transcript-redaction-status no_sensitive_content --capability read_files=yes --capability write_files=yes --capability run_shell=yes --capability request_approvals=no --capability network_access=yes --capability native_brain_commands=no --capability schema_artifacts=yes --capability blocked_command_reporting=yes --capability preserve_user_changes=yes --capability-evidence read_files=read-file-tool-opened-command-and-skill-files --capability-evidence write_files=write-file-tool-created-runtime-smoke-transcript --capability-evidence run_shell=terminal-ran-targeted-pytest-red-check --capability-evidence request_approvals=no-approval-prompt-available-in-scheduled-run --capability-evidence network_access=git-fetch-origin-main-succeeded-during-bootstrap --capability-evidence native_brain_commands=adapter-docs-state-markdown-command-specs --capability-evidence schema_artifacts=runtime-smoke-helper-validates-json-against-schema --capability-evidence blocked_command_reporting=terminal-tool-returns-exit-code-and-output-for-failed-commands --capability-evidence preserve_user_changes=git-status-reviewed-before-editing-and-write-fence-limited-to-artifacts-and-tests --output artifacts/runtime-smoke/scheduled-agent-runtime-2026-05-17.json",
-  "git_fetch_result": "fetched: git fetch origin main succeeded (From https://github.com/rohitg00/agentbrain\n * branch            main       -> FETCH_HEAD)",
+  "git_fetch_result": "fetched: git fetch origin main succeeded (From https://github.com/AI-pro017/agentbrain\n * branch            main       -> FETCH_HEAD)",
   "git_freshness_result": "fresh: HEAD equals origin/main at 171af1eba3a0b183e48d8ca411a5e44fcf782c96",
   "git_worktree_status": "dirty: 2 path(s) changed",
   "loaded_skills": [

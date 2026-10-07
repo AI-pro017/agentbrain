@@ -202,7 +202,7 @@ Before every push:
 - `git status --short`
 - `git log --oneline --max-count=12`
 - search for banned public-copy terms if relevant
-- confirm commits are authored as `rohitg00 <rohitg00@users.noreply.github.com>`
+- confirm commits are authored as `AI-pro017 <jamesm1995017@gmail.com>`
 
 ## Banned failure modes
 
