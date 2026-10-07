@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rohitg00/agentbrain/actions/workflows/quality.yml"><img src="https://github.com/rohitg00/agentbrain/actions/workflows/quality.yml/badge.svg" alt="Quality"></a>
-  <a href="https://github.com/rohitg00/agentbrain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/rohitg00/agentbrain" alt="License"></a>
-  <a href="https://github.com/rohitg00/agentbrain/stargazers"><img src="https://img.shields.io/github/stars/rohitg00/agentbrain?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/AI-pro017/agentbrain/actions/workflows/quality.yml"><img src="https://github.com/AI-pro017/agentbrain/actions/workflows/quality.yml/badge.svg" alt="Quality"></a>
+  <a href="https://github.com/AI-pro017/agentbrain/blob/main/LICENSE"><img src="https://img.shields.io/github/license/AI-pro017/agentbrain" alt="License"></a>
+  <a href="https://github.com/AI-pro017/agentbrain/stargazers"><img src="https://img.shields.io/github/stars/AI-pro017/agentbrain?style=social" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white" alt="Python 3.11">
   <img src="https://img.shields.io/badge/runtime-agent--agnostic-111827" alt="Agent agnostic">
 </p>
@@ -152,7 +152,7 @@ Paste this into your agent:
 ```text
 Use Agent Brain as your operating harness.
 
-Clone https://github.com/rohitg00/agentbrain, read AGENTBRAIN.md, PRINCIPLES.md, ANTI_RATIONALIZATION.md, and docs/state-machine.md, then choose the command in commands/ that matches my request.
+Clone https://github.com/AI-pro017/agentbrain, read AGENTBRAIN.md, PRINCIPLES.md, ANTI_RATIONALIZATION.md, and docs/state-machine.md, then choose the command in commands/ that matches my request.
 
 Do not build before evidence, plan, and verification are clear. Produce the required artifact from templates/ and schemas/. Stop if approval, secrets, loop limits, rollback, or validation evidence are missing.
 ```
@@ -180,7 +180,7 @@ The wrappers expose `/brain-*` shortcuts while keeping `commands/brain-*.md` as 
 Agent Brain is documentation-first, but it is still tested. Match CI with Python 3.11.
 
 ```bash
-git clone https://github.com/rohitg00/agentbrain.git
+git clone https://github.com/AI-pro017/agentbrain.git
 cd agentbrain
 python3 --version  # expect Python 3.11.x
 python3 -m venv .venv

@@ -9,7 +9,7 @@ The harness is not a chat prompt. It is a controlled operating environment made 
 From a fresh checkout, use Python 3.11 so local validation matches CI:
 
 ```bash
-git clone https://github.com/rohitg00/agentbrain.git
+git clone https://github.com/AI-pro017/agentbrain.git
 cd agentbrain
 python3 --version  # expect Python 3.11.x
 # If python3 is not Python 3.11, use python3.11 explicitly or stop and report the runtime blocker.
